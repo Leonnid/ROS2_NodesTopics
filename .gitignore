@@ -1,0 +1,9 @@
+src/log
+log
+build
+install
+src/my_robot_pkg/resource
+src/my_robot_pkg/setup.cfg
+/home/uvarovsky/ros2_ws/src/my_robot_pkg/package.xml
+
+src/my_robot_pkg/test
