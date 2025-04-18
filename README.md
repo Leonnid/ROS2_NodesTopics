@@ -1,7 +1,7 @@
 
 # ROS2 Setup and Execution
 
-## Setup Environment
+## Install ROS2
 https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
 
 ## Setup Environment
